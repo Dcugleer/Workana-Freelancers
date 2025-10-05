@@ -1,4 +1,4 @@
-<!-- Banner ou Gradiente Futurista -->
+<!-- Banner Gradiente Futurista -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=100&section=header&text=🚀%20Projetos%20de%20Freelancer%20—%20Workana&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
 </p>
@@ -20,18 +20,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/Dcugleer/projetos-freelancer-workana?style=for-the-badge&color=6a0dad&label=Linguagens" alt="Linguagens">
-  <img src="https://img.shields.io/github/directory-file-count/Dcugleer/projetos-freelancer-workana?style=for-the-badge&color=6a0dad&label=Projetos" alt="Número de Projetos">
-  <img src="https://img.shields.io/github/last-commit/Dcugleer/projetos-freelancer-workana?style=for-the-badge&color=6a0dad&label=Último%20Commit" alt="Último Commit">
-  <img src="https://img.shields.io/github/repo-size/Dcugleer/projetos-freelancer-workana?style=for-the-badge&color=6a0dad&label=Tamanho" alt="Tamanho do Repositório">
+  <img src="https://img.shields.io/github/languages/count/Dcugleer/Workana-Freelancers?style=for-the-badge&color=6a0dad&label=Linguagens" alt="Linguagens">
+  <img src="https://img.shields.io/github/directory-file-count/Dcugleer/Workana-Freelancers?style=for-the-badge&color=6a0dad&label=Projetos" alt="Número de Projetos">
+  <img src="https://img.shields.io/github/last-commit/Dcugleer/Workana-Freelancers?style=for-the-badge&color=6a0dad&label=Último%20Commit" alt="Último Commit">
+  <img src="https://img.shields.io/github/repo-size/Dcugleer/Workana-Freelancers?style=for-the-badge&color=6a0dad&label=Tamanho" alt="Tamanho do Repositório">
 </p>
 
 ---
 
 ## 🧭 Visão Geral
 
-Este repositório reúne os **projetos que desenvolvi como freelancer através da plataforma [Workana](https://www.workana.com)**.  
-Cada pasta representa um projeto real, criado sob demanda para diferentes clientes, sempre com foco em:
+Este repositório reúne os **projetos que desenvolvi como freelancer pela plataforma [Workana](https://www.workana.com)**.  
+Cada pasta representa um projeto real, criado sob demanda para diferentes clientes, com foco em:
 
 - 🧠 **Soluções inteligentes e personalizadas**  
 - 🧱 **Organização profissional de código**  
@@ -39,7 +39,9 @@ Cada pasta representa um projeto real, criado sob demanda para diferentes client
 
 ---
 
-## 🗂️ Estrutura do Repositórios
+## 🗂 Estrutura do Repositório
+
+
 
 📂 projetos-freelancer-workana/
 ├── 📝 README.md
@@ -57,20 +59,17 @@ Cada pasta representa um projeto real, criado sob demanda para diferentes client
 └── ...
 
 
-
-
-
-👉 Cada projeto tem seu próprio `README.md` interno com:  
+👉 Cada projeto conta com seu próprio `README.md` interno que deve conter:  
 - 📌 Descrição do projeto  
 - 🛠️ Tecnologias utilizadas  
-- 🚀 Instruções de uso  
-- 📝 Observações ou credenciais de teste (quando aplicável)
+- 🚀 Instruções de execução  
+- 📝 Observações extras ou credenciais (quando aplicável)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
-Os projetos aqui presentes utilizam diferentes stacks, de acordo com a demanda do cliente:
+Aqui estão algumas das tecnologias que uso com frequência em projetos freelancer:
 
 | Tipo              | Tecnologias |
 |-------------------|-------------|
@@ -84,20 +83,20 @@ Os projetos aqui presentes utilizam diferentes stacks, de acordo com a demanda d
 
 ## 📢 Sobre os Projetos
 
-- Algumas partes dos projetos podem ser **omitidas ou adaptadas** para proteger informações sensíveis.  
-- Sempre que possível, versões **demo ou exemplos open-source** serão disponibilizados para estudo e inspiração.  
-- Este repositório também serve como um **portfólio técnico** dos trabalhos realizados como freelancer.
+- Em alguns casos, partes sensíveis dos projetos (dados, credenciais, domínios) podem ser omitidas ou adaptadas.  
+- Quando possível, versões demo ou exemplos open-source estarão disponíveis para consulta e aprendizado.  
+- Este repositório também funciona como **meu portfólio técnico**, evidenciando trabalhos feitos como freelancer.
 
 ---
 
 ## ✉️ Contato Profissional
 
-Se você deseja desenvolver um projeto sob medida ou colaborar em novas ideias:
+Se quiser conversar sobre novos projetos ou colaborações:
 
 - 👨‍💻 **Desenvolvedor:** Denis Elias Cugler  
 - 🌐 **Portfólio:** [dcugleer.github.io](https://dcugleer.github.io)  
 - 📧 **E-mail:** [deniscugler@gmail.com](mailto:deniscugler@gmail.com)  
-- 💼 **Workana:** [Perfil Denis no Workana](https://www.workana.com) <!-- substitua pelo link real -->  
+- 💼 **Workana:** [Seu Perfil Workana](https://www.workana.com) *(substitua com seu link real)*  
 - 💻 **GitHub:** [github.com/Dcugleer](https://github.com/Dcugleer)  
 - 🔗 **LinkedIn:** [linkedin.com/in/denis-cugler](https://www.linkedin.com/in/denis-cugler)
 
@@ -105,9 +104,9 @@ Se você deseja desenvolver um projeto sob medida ou colaborar em novas ideias:
 
 ## 📜 Licença
 
-Os projetos aqui são de **autoria própria**, desenvolvidos sob contrato via Workana.  
-Alguns exemplos foram adaptados para fins de portfólio.  
-🚫 **Não é permitido reutilizar ou redistribuir estes projetos sem autorização prévia.**
+Os projetos nesta pasta são de **autoria própria**, desenvolvidos sob contrato via Workana.  
+Alguns exemplos podem ter sido adaptados para fins de portfólio.  
+🚫 **Não é permitida a reutilização ou redistribuição sem autorização prévia.**
 
 ---
 
