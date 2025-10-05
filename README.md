@@ -96,7 +96,7 @@ Se quiser conversar sobre novos projetos ou colaborações:
 - 👨‍💻 **Desenvolvedor:** Denis Elias Cugler  
 - 🌐 **Portfólio:** [dcugleer.github.io](https://dcugleer.github.io)  
 - 📧 **E-mail:** [deniscugler@gmail.com](mailto:deniscugler@gmail.com)  
-- 💼 **Workana:** [Seu Perfil Workana](https://www.workana.com) *(substitua com seu link real)*  
+- 💼 **Workana:** [Seu Perfil Workana](https://www.workana.com) 
 - 💻 **GitHub:** [github.com/Dcugleer](https://github.com/Dcugleer)  
 - 🔗 **LinkedIn:** [linkedin.com/in/denis-cugler](https://www.linkedin.com/in/denis-cugler)
 
